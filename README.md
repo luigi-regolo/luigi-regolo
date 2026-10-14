@@ -1,107 +1,75 @@
 <div align="center">
 
-<a id="inizio"></a>
-<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-hero.svg" alt="Themes, Dashboards e Automations — Automazioni, dashboard e consigli pratici — Edera, il tema per Home Assistant" width="100%">
+<sub><strong>HOME ASSISTANT / OPEN SOURCE</strong></sub>
 
-<p>
-  <a href="#edera"><kbd>Edera</kbd></a>&nbsp;
-  <a href="#riscaldamento-intelligente"><kbd>Riscaldamento</kbd></a>&nbsp;
-  <a href="#home-mobile"><kbd>Home Mobile</kbd></a>&nbsp;
-  <a href="#altre-automazioni"><kbd>Automazioni</kbd></a>
-</p>
+# Themes · Dashboards · Automations
 
-</div>
+Automazioni, dashboard e consigli pratici
 
----
+Edera | il tema per Home Assistant
 
-<a id="edera"></a>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-edera.svg" alt="Edera — titolo e presentazione del tema Light e Graphite Dark" width="100%">
-
-<table>
-  <tr>
-    <th align="center" width="50%">GRAPHITE DARK</th>
-    <th align="center" width="50%">EDERA LIGHT</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/luigi-regolo/Edera">
-        <img src="https://raw.githubusercontent.com/luigi-regolo/Edera/main/images/edera-mobile-dark.png" alt="Schermata reale di Edera Graphite Dark" height="275">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/luigi-regolo/Edera">
-        <img src="https://raw.githubusercontent.com/luigi-regolo/Edera/main/images/edera-mobile-light.png" alt="Schermata reale di Edera Light" height="275">
-      </a>
-    </td>
-  </tr>
-</table>
-
-**[Scopri Edera →](https://github.com/luigi-regolo/Edera)** &nbsp;·&nbsp; **[Apri in Home Assistant ↗](https://my.home-assistant.io/redirect/hacs_repository/?owner=luigi-regolo&repository=Edera&category=theme)**
+[Edera](#edera) · [Riscaldamento](#riscaldamento-intelligente) · [Home Mobile](#home-mobile) · [Automazioni](#altre-automazioni)
 
 </div>
 
 ---
 
-<a id="riscaldamento-intelligente"></a>
-<div align="center">
+<sub>01 / FEATURED PROJECT</sub>
 
-<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-riscaldamento.svg" alt="Riscaldamento intelligente: uscita e rientro da casa nei giorni feriali e nel weekend" width="100%">
+## Edera
 
-</div>
+**Apri Home Assistant. Il resto può aspettare.**
 
-<table>
-  <tr>
-    <th width="50%" align="center">Lun — Ven</th>
-    <th width="50%" align="center">Sab — Dom</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_feriali.yaml"><strong>Importa uscita da casa ↗</strong></a></td>
-    <td align="center"><a href="https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_weekend.yaml"><strong>Importa uscita da casa ↗</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_feriali.yaml"><strong>Importa rientro a casa ↗</strong></a></td>
-    <td align="center"><a href="https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_weekend.yaml"><strong>Importa rientro a casa ↗</strong></a></td>
-  </tr>
-</table>
+Un tema per Home Assistant con due modalità coordinate
 
-<div align="center">
+**Light + Graphite Dark**
 
-**Finestre** &nbsp; [Apertura ↗](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduzione_riscaldamento_finestra_aperta.yaml) &nbsp;·&nbsp; [Chiusura ↗](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristino_riscaldamento_finestra_chiusa.yaml)
+**[Scopri Edera →](https://github.com/luigi-regolo/Edera)** · **[Apri in Home Assistant ↗](https://my.home-assistant.io/redirect/hacs_repository/?owner=luigi-regolo&repository=Edera&category=theme)**
+
+---
+
+<sub>02 / SMART AUTOMATIONS</sub>
+
+## Riscaldamento intelligente
+
+Gestione dei termostati in base alla presenza in casa
+
+Automazioni dedicate ai giorni feriali e al weekend
+
+| | **Lun — Ven** | **Sab — Dom** |
+| --- | --- | --- |
+| **Uscita da casa** | [Preset dopo 5 minuti di assenza · Importa blueprint →](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_feriali.yaml) | [Preset dopo 2 minuti di assenza · Importa blueprint →](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_weekend.yaml) |
+| **Rientro a casa** | [Preset dopo 15 secondi · Importa blueprint →](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_feriali.yaml) | [Preset dopo 5 minuti · Importa blueprint →](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_weekend.yaml) |
+
+**Disponibili anche automazioni per apertura e chiusura finestre**
+
+[Apertura finestra ↗](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduzione_riscaldamento_finestra_aperta.yaml) · [Chiusura finestra ↗](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristino_riscaldamento_finestra_chiusa.yaml)
 
 **[Esplora le automazioni →](https://github.com/luigi-regolo/automazioni-home-assistant)**
-
-</div>
 
 <sub>I blueprint richiedono importazione, configurazione e attivazione in Home Assistant. Servono entità di presenza o sensori finestra e termostati con preset compatibili. I ripristini applicano il preset scelto, non quello precedente. La localizzazione può essere imprecisa.</sub>
 
 ---
 
-<a id="home-mobile"></a>
-<div align="center">
+<sub>03 / MOBILE EXPERIENCE</sub>
 
-<a href="https://luigi-regolo.github.io/home-mobile-home-assistant/">
-  <img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-home-mobile.svg" alt="Home Mobile — presentazione della dashboard per smartphone con Edera" width="100%">
-</a>
+## Home Mobile
 
-<a href="https://luigi-regolo.github.io/home-mobile-home-assistant/">
-  <img src="https://raw.githubusercontent.com/luigi-regolo/home-mobile-home-assistant/main/screenshots/home-mobile-original-top.jpg" alt="Schermata reale della dashboard Home Mobile" height="300">
-</a>
+Dashboard per smartphone con tema Edera
 
-**[Prova la Live Demo ↗](https://luigi-regolo.github.io/home-mobile-home-assistant/)** &nbsp;·&nbsp; **[Esplora il repository →](https://github.com/luigi-regolo/home-mobile-home-assistant)**
+Piantina 3D, ambienti, luci e sicurezza
 
-</div>
+**[Prova la Live Demo ↗](https://luigi-regolo.github.io/home-mobile-home-assistant/)** · **[Esplora il repository →](https://github.com/luigi-regolo/home-mobile-home-assistant)**
 
 ---
 
-<a id="altre-automazioni"></a>
+<sub>04 / EXPLORE MORE</sub>
 
 ## Altre automazioni
 
 Blueprint per Home Assistant da importare e configurare
 
-<kbd>Sicurezza</kbd>&nbsp; <kbd>Sensori</kbd>&nbsp; <kbd>Tapparelle</kbd>&nbsp; <kbd>NFC</kbd>&nbsp; <kbd>Ingresso</kbd>&nbsp; <kbd>Prese</kbd>
+**Sicurezza** · **Sensori** · **Tapparelle** · **NFC** · **Ingresso** · **Prese**
 
 **[Esplora la raccolta completa →](https://github.com/luigi-regolo/automazioni-home-assistant)**
 
