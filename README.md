@@ -1,7 +1,5 @@
 <div align="center">
 
-# Luigi
-
 **Home Assistant · UI design · Open source**
 
 Temi, dashboard e automazioni per rendere Home Assistant più chiaro, coerente e piacevole da usare.
