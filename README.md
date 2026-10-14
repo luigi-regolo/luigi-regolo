@@ -1,7 +1,7 @@
 <div align="center">
 
 <a id="inizio"></a>
-<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-hero.svg" alt="Themes, Dashboards e Automations — Progetti open source dedicati a Home Assistant" width="100%">
+<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-hero.svg" alt="Themes, Dashboards e Automations — Automazioni, dashboard e consigli pratici — Edera, il tema per Home Assistant" width="100%">
 
 <p>
   <a href="#edera"><kbd>Edera</kbd></a>&nbsp;
@@ -17,7 +17,7 @@
 <a id="edera"></a>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-edera.svg" alt="Edera — Apri Home Assistant. Il resto può aspettare. Light + Graphite Dark" width="100%">
+<img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-edera.svg" alt="Edera — titolo e presentazione del tema Light e Graphite Dark" width="100%">
 
 <table>
   <tr>
@@ -82,7 +82,7 @@
 <div align="center">
 
 <a href="https://luigi-regolo.github.io/home-mobile-home-assistant/">
-  <img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-home-mobile.svg" alt="Home Mobile — dashboard per smartphone con tema Edera, piantina 3D, ambienti, luci e sicurezza" width="100%">
+  <img src="https://raw.githubusercontent.com/luigi-regolo/luigi-regolo/main/assets/profile-home-mobile.svg" alt="Home Mobile — presentazione della dashboard per smartphone con Edera" width="100%">
 </a>
 
 <a href="https://luigi-regolo.github.io/home-mobile-home-assistant/">
@@ -109,6 +109,6 @@ Blueprint per Home Assistant da importare e configurare
 
 <div align="center">
 
-[**#ederatheme**](https://www.tiktok.com/tag/ederatheme) &nbsp;·&nbsp; [**#HAProjects**](https://www.tiktok.com/tag/haprojects)
+[**#ederatheme**](https://www.tiktok.com/tag/ederatheme)
 
 </div>
