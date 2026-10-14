@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="429" viewBox="0 0 1400 429" role="img" aria-label="Home Mobile, dashboard per smartphone con Edera" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1400" height="429" rx="25" fill="#FAFCF9" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1400" height="429" rx="25" fill="none" stroke="#DDE6DD" stroke-width="2"/>
+<text x="74" y="73" font-size="21" font-weight="700" fill="#4F7C60" text-anchor="start" letter-spacing="3">03 / MOBILE EXPERIENCE</text>
+<text x="74" y="157" font-size="76" font-weight="700" fill="#1F3228" text-anchor="start" letter-spacing="-2">Home Mobile</text>
+<text x="77" y="211" font-size="28" font-weight="400" fill="#1F3228" text-anchor="start">Dashboard per smartphone con tema Edera</text>
+<text x="77" y="254" font-size="25" font-weight="400" fill="#627169" text-anchor="start">Piantina 3D, ambienti, luci e sicurezza</text>
+<rect x="76" y="297" width="321" height="60" rx="13" fill="#4F7C60" stroke="none" stroke-width="1"/>
+<text x="236" y="337" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">PROVA LA LIVE DEMO  →</text>
+<rect x="731" y="40" width="611" height="350" rx="21" fill="#22312A" stroke="none" stroke-width="1"/>
+<rect x="771" y="73" width="530" height="300" rx="13" fill="#32443A" stroke="none" stroke-width="1"/>
+<text x="798" y="112" font-size="24" font-weight="700" fill="#E5EEE5" text-anchor="start">HOME</text>
+<rect x="802" y="135" width="252" height="203" rx="13" fill="#DDE9D9" stroke="none" stroke-width="1"/>
+<rect x="821" y="153" width="114" height="82" rx="9" fill="#B7CCB8" stroke="#94B598" stroke-width="3"/>
+<rect x="943" y="153" width="90" height="82" rx="9" fill="#C7D9C6" stroke="#94B598" stroke-width="3"/>
+<rect x="821" y="244" width="210" height="75" rx="9" fill="#C2D3C4" stroke="#94B598" stroke-width="3"/>
+<rect x="1069" y="135" width="207" height="95" rx="13" fill="#40594A" stroke="none" stroke-width="1"/>
+<rect x="1087" y="153" width="61" height="60" rx="8" fill="#6C9C75" stroke="none" stroke-width="1"/>
+<rect x="1160" y="153" width="97" height="15" rx="7" fill="#658873" stroke="none" stroke-width="1"/>
+<rect x="1160" y="178" width="77" height="12" rx="6" fill="#658873" stroke="none" stroke-width="1"/>
+<rect x="1069" y="244" width="207" height="93" rx="13" fill="#40594A" stroke="none" stroke-width="1"/>
+<rect x="1090" y="262" width="42" height="42" rx="11" fill="#9FC6A6" stroke="none" stroke-width="1"/>
+<rect x="1145" y="265" width="95" height="15" rx="8" fill="#658873" stroke="none" stroke-width="1"/>
+<rect x="1145" y="292" width="64" height="11" rx="6" fill="#658873" stroke="none" stroke-width="1"/>
+</svg>
