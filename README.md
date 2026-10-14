@@ -49,6 +49,25 @@ Un tema per Home Assistant, progettato per smartphone, tablet e desktop.
 
 ---
 
+## Riscaldamento intelligente per Home Assistant
+
+**Esci di casa. Il riscaldamento si adatta. Rientri. Torna al preset che hai scelto.**
+
+Quattro blueprint per gestire i termostati in base alla presenza, con automazioni dedicate ai **giorni feriali** e al **weekend**.
+
+| Quando | Lunedì–venerdì | Sabato–domenica |
+| --- | --- | --- |
+| **Esci di casa** | [Riduci dopo 5 minuti](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_feriali.yaml) | [Riduci dopo 2 minuti](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduci_riscaldamento_assenza_weekend.yaml) |
+| **Rientri a casa** | [Imposta il preset dopo 15 secondi](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_feriali.yaml) | [Imposta il preset dopo 5 minuti](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristina_riscaldamento_rientro_weekend.yaml) |
+
+**Anche per le finestre:** [riduci il riscaldamento all'apertura](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Friduzione_riscaldamento_finestra_aperta.yaml) · [imposta il preset alla chiusura](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fluigi-regolo%2Fautomazioni-home-assistant%2Fblob%2Fmain%2Fautomations%2Friscaldamento%2Fripristino_riscaldamento_finestra_chiusa.yaml)
+
+[**Esplora tutti i blueprint e leggi le istruzioni**](https://github.com/luigi-regolo/automazioni-home-assistant)
+
+> I link aprono l'importazione del singolo blueprint in Home Assistant: occorre poi configurare e attivare ogni automazione. Servono entità di presenza o sensori finestra e termostati con preset compatibili. I ripristini impostano il preset scelto, non quello precedente; il rilevamento della presenza può essere impreciso.
+
+---
+
 ## Altri progetti Home Assistant
 
 ### [Home Mobile](https://github.com/luigi-regolo/home-mobile-home-assistant)
