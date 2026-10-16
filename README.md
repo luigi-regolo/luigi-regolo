@@ -2,11 +2,7 @@
 
 <sub><strong>HOME ASSISTANT / OPEN SOURCE</strong></sub>
 
-# Themes · Dashboards · Automations
-
-Automazioni, dashboard e consigli pratici
-
-Edera | il tema per Home Assistant
+# Themes · Cards · Dashboards · Automations
 
 [Edera](#edera) · [GlowFloor](#glowfloor-card) · [Riscaldamento](#riscaldamento-intelligente) · [Home Mobile](#home-mobile) · [Automazioni](#altre-automazioni)
 
