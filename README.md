@@ -8,7 +8,7 @@ Automazioni, dashboard e consigli pratici
 
 Edera | il tema per Home Assistant
 
-[Edera](#edera) · [Riscaldamento](#riscaldamento-intelligente) · [Home Mobile](#home-mobile) · [Automazioni](#altre-automazioni)
+[Edera](#edera) · [GlowFloor](#glowfloor-card) · [Riscaldamento](#riscaldamento-intelligente) · [Home Mobile](#home-mobile) · [Automazioni](#altre-automazioni)
 
 </div>
 
@@ -28,7 +28,23 @@ Un tema per Home Assistant con due modalità coordinate
 
 ---
 
-<sub>02 / SMART AUTOMATIONS</sub>
+<a id="glowfloor-card"></a>
+
+<sub>02 / DASHBOARD CARD</sub>
+
+## GlowFloor Card
+
+Una piantina interattiva per Home Assistant con controllo delle luci, illuminazione diffusa e fino a tre scene rapide personalizzabili
+
+**Editor visuale · Light + Dark · Nessuna configurazione YAML obbligatoria**
+
+**[Scopri GlowFloor Card →](https://github.com/luigi-regolo/glowfloor-card)** · **[Apri in HACS ↗](https://my.home-assistant.io/redirect/hacs_repository/?owner=luigi-regolo&repository=glowfloor-card&category=plugin)**
+
+<sub>Installabile tramite repository personalizzato HACS; non ancora incluso nel catalogo predefinito.</sub>
+
+---
+
+<sub>03 / SMART AUTOMATIONS</sub>
 
 ## Riscaldamento intelligente
 
@@ -51,7 +67,7 @@ Automazioni dedicate ai giorni feriali e al weekend
 
 ---
 
-<sub>03 / MOBILE EXPERIENCE</sub>
+<sub>04 / MOBILE EXPERIENCE</sub>
 
 ## Home Mobile
 
@@ -63,7 +79,7 @@ Piantina 3D, ambienti, luci e sicurezza
 
 ---
 
-<sub>04 / EXPLORE MORE</sub>
+<sub>05 / EXPLORE MORE</sub>
 
 ## Altre automazioni
 
